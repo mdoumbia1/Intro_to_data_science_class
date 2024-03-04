@@ -1,2 +1,2 @@
-# Module 1 through Module 4
+# Module 1 and  Module 2
 Introduction to data science
